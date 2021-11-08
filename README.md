@@ -1,0 +1,2 @@
+# CleanApp
+MyLearningProject
